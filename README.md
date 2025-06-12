@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rrrrrzy
 - 📍 I'm a stu in China now~
 - 🌱 I’m currently learning Golang and C++
-- 📫 You can contact with me via github, but pls do not send email to me directly.
-- 🏳️‍🌈 I thought I could fly, so why did I drawn ?
+- 📫 You can contact with me via github, and pls do not send email to me directly.
+- 🏳️‍🌈 I thought I could fly, so why did I drawn ...
 
 ```
 I shot for the sky
