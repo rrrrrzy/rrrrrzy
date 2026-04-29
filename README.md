@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @rrrrrzy
 - 📍 I'm a stu in China now~
-- 🌱 I’m currently learning Golang and C++
+- 🌍 Golang, C++, Rust and Python
+- ⭐️ I'm a fan of Yichun Shan🥚
 - 📫 You can contact with me via github, and pls do not send email to me directly.
 - 🏳️‍🌈 I thought I could fly, so why did I drawn ...
 
